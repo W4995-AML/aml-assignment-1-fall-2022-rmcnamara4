@@ -22,7 +22,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 from numpy.linalg import inv
-get_ipython().run_line_magic('matplotlib', 'inline')
+# get_ipython().run_line_magic('matplotlib', 'inline')
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from sklearn.preprocessing import OrdinalEncoder
